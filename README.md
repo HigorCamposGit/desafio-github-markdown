@@ -1,7 +1,7 @@
 # 🚀 Desafio Github & Markdown
 
 
-> Repositório oficial desenvolvido para consolidar os fundamentos de controle de versão, colaboração em equipe e documentação profissional utilizando Markdown, 
+> Repositório oficial desenvolvido para consolidar os fundamentos de controle de versão, colaboração em equipe e documentação profissional utilizando Markdown.
 
 ---
 
