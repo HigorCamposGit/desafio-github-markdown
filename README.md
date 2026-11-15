@@ -1,7 +1,6 @@
-# desafio-github-markdown
-# 🚀 Desafio de Projeto: Git, GitHub e Markdown
+# 🚀 Criando um Wireframe de Média Fidelidade
 
-> Repositório oficial desenvolvido para consolidar os fundamentos de controle de versão, colaboração em equipe e documentação profissional utilizando Markdown.
+> Repositório oficial desenvolvido para consolidar os fundamentos de controle de versão, colaboração em equipe e documentação profissional utilizando Markdown, para a formação **Formação UI/UX Designer** na DIO.
 
 ---
 
@@ -44,3 +43,17 @@ git commit -m "docs: adiciona documentação profissional ao README.md"
 
 # 7. Enviar a branch para o repositório remoto
 git origin push feature/estruturacao-markdown
+
+```
+
+---
+
+## 🤝 Conecte-se Comigo
+
+<p align="center">
+  <img src="https://github.com/HigorCamposGit.png" width="100px" style="border-radius: 50%;" alt="Foto de Higor de Campos" /><br />
+  <b>Projeto atualizado por:</b> <a href="https://github.com/HigorCamposGit">Higor de Campos</a>
+</p>
+
+---
+
