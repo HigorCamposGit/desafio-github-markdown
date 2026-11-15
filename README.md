@@ -1,6 +1,7 @@
-# 🚀 Criando um Wireframe de Média Fidelidade
+# 🚀 Desafio Github & Markdown
 
-> Repositório oficial desenvolvido para consolidar os fundamentos de controle de versão, colaboração em equipe e documentação profissional utilizando Markdown, para a formação **Formação UI/UX Designer** na DIO.
+
+> Repositório oficial desenvolvido para consolidar os fundamentos de controle de versão, colaboração em equipe e documentação profissional utilizando Markdown, 
 
 ---
 
